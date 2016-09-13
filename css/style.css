@@ -831,7 +831,7 @@ header1.jpg/*
 
 		#nav-wrapper
 		{
-			background: rgba(0,0,0,.1);
+			background: rgba(0,0,0,.7);
 			position: absolute;
 			top: 0;
 			left: 0;
@@ -839,7 +839,7 @@ header1.jpg/*
 		}
 		
 		#nav > ul
-		{
+		{  
 			margin: 0;
 			padding: 0;
 			text-align: center;
